@@ -1,6 +1,9 @@
 "Blowfish All The Things" crypt
 ===============================
 
+[![Build Status](https://drone.io/github.com/BenLubar/battcrypt/status.png)](https://drone.io/github.com/BenLubar/battcrypt/latest)
+[![GoDoc](https://godoc.org/github.com/BenLubar/battcrypt?status.svg)](https://godoc.org/github.com/BenLubar/battcrypt)
+
 https://password-hashing.net/submissions/specs/battcrypt-v0.pdf
 
 Package battcrypt implements Steven Thomas's "Blowfish All The Things"
